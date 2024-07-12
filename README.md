@@ -1,5 +1,5 @@
 # Back-end
-## 프로젝트 설명
+## 공통 사항
 - 단위 테스트 작성(service 메소드 별로) : Junit 사용
 - 다른 사람이 알아보기 쉽도록 주석처리해야 합니다.
     - javadoc 형식 https://jake-seo-dev.tistory.com/59
